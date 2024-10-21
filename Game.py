@@ -1,3 +1,8 @@
+# This Is The Code That You Need To Run The Game
+# Just Copy And Paste It Into A Python File.
+
+#If You Get An Error Regarding Any Of The Imports, Just Run "pip install -Enter The File Name-"
+
 import pygame
 import sys
 import random
